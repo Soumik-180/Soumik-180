@@ -1,16 +1,12 @@
-<!-- Header with typing animation -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4a2e,100:2ea043&height=200&section=header&text=Soumik%20Ray%20Swapon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Decoding%20Life%2C%20One%20Sequence%20at%20a%20Time&descAlignY=58&descColor=7ee787&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=🧬+B.Tech+Biotechnology+Student;🔬+Computational+Biology+Enthusiast;🧪+Biological+Data+Analyst;🤖+AI+%26+ML+for+Life+Sciences;🐍+Python+%7C+PERL+%7C+C+Programmer" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="./photo.jpg" width="160" style="border-radius: 50%; border: 3px solid #2ea043; margin-top: 12px;" alt="Soumik Ray Swapon" />
+  <img src="https://img.shields.io/badge/B.Tech%20Biotechnology%20Student-2ea043?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computational%20Biology%20Enthusiast-1a4a2e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20for%20Life%20Sciences-0d1117?style=flat-square&logoColor=white" />
 </div>
 
 <br/>
@@ -46,12 +42,12 @@ class Soumik:
     username   = "Soumik-180"
     degree     = "B.Tech in Biotechnology"
     passion    = ["Computational Biology", "Biological Data Analysis", "AI in Healthcare"]
-    currently  = "Exploring the intersection of biology and code 🔬💻"
-    hobbies    = ["Gaming 🎮", "Reading Novels 📚"]
+    currently  = "Exploring the intersection of biology and code"
+    hobbies    = ["Gaming", "Reading Novels"]
     motto      = "Where biology meets computation, discoveries happen."
 ```
 
-I'm a Biotechnology undergrad passionate about harnessing the power of **code and computation** to solve biological problems — from analyzing protein sequences to predicting disease outcomes using AI. I believe data is the new microscope. 🔭
+I'm a Biotechnology undergrad passionate about harnessing the power of **code and computation** to solve biological problems — from analyzing protein sequences to predicting disease outcomes using AI. I believe data is the new microscope.
 
 ---
 
@@ -88,25 +84,11 @@ I'm a Biotechnology undergrad passionate about harnessing the power of **code an
 
 <div align="center">
 
-| Project | Description | 🔗 Link |
+| Project | Description | Link |
 |:---:|:---|:---:|
 | **Disease Prediction** | An AI-powered clinical decision-support system that analyzes biomarker patterns to predict disease outcomes. Uses ML & Explainable AI for early risk detection and smarter clinical decisions. | [View →](https://github.com/Soumik-180/Disease-prediction-) |
 | **Protein Sequence Analyser** | A modular, pure-Python bioinformatics web app built with Streamlit. Performs physicochemical analysis, sequence characterization, and local alignment for protein sequences. | [View →](https://github.com/Soumik-180/Protein-Sequence-Analyser-) |
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumik-180&show_icons=true&theme=github_dark&border_color=2ea043&icon_color=2ea043&title_color=7ee787&text_color=c9d1d9&hide_border=false&count_private=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumik-180&layout=compact&theme=github_dark&border_color=2ea043&title_color=7ee787&text_color=c9d1d9&hide_border=false" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumik-180&theme=github-dark-blue&border=2ea043&ring=2ea043&fire=7ee787&currStreakLabel=7ee787" />
 </div>
 
 ---
