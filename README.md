@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="./photo.jpg" width="160" style="border-radius: 50%; border: 3px solid #2ea043; margin-top: 12px;" alt="Soumik Ray Swapon" />
+</div>
+
 <br/>
 
 <!-- Visitor badge + social badges -->
@@ -34,13 +38,7 @@
 
 ---
 
-##  About Me
-
-<div align="center">
-  <img src="./photo.jpg" width="160" style="border-radius: 50%; border: 3px solid #2ea043;" alt="Soumik Ray Swapon" />
-</div>
-
-<br/>
+## About Me
 
 ```python
 class Soumik:
@@ -57,7 +55,7 @@ I'm a Biotechnology undergrad passionate about harnessing the power of **code an
 
 ---
 
-##  Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -86,11 +84,11 @@ I'm a Biotechnology undergrad passionate about harnessing the power of **code an
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| Project |  Description | 🔗 Link |
+| Project | Description | 🔗 Link |
 |:---:|:---|:---:|
 | **Disease Prediction** | An AI-powered clinical decision-support system that analyzes biomarker patterns to predict disease outcomes. Uses ML & Explainable AI for early risk detection and smarter clinical decisions. | [View →](https://github.com/Soumik-180/Disease-prediction-) |
 | **Protein Sequence Analyser** | A modular, pure-Python bioinformatics web app built with Streamlit. Performs physicochemical analysis, sequence characterization, and local alignment for protein sequences. | [View →](https://github.com/Soumik-180/Protein-Sequence-Analyser-) |
@@ -99,7 +97,7 @@ I'm a Biotechnology undergrad passionate about harnessing the power of **code an
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumik-180&show_icons=true&theme=github_dark&border_color=2ea043&icon_color=2ea043&title_color=7ee787&text_color=c9d1d9&hide_border=false&count_private=true" height="170" />
@@ -113,25 +111,25 @@ I'm a Biotechnology undergrad passionate about harnessing the power of **code an
 
 ---
 
-##  Currently Exploring
+## Currently Exploring
 
--  **Genomics pipelines** using NGS data
--  **Explainable AI (XAI)** in biomedical research
--  **Structural Bioinformatics** — protein folding & docking
--  **Multi-omics data integration**
+- **Genomics pipelines** using NGS data
+- **Explainable AI (XAI)** in biomedical research
+- **Structural Bioinformatics** — protein folding & docking
+- **Multi-omics data integration**
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
 | Platform | Link |
 |:---:|:---:|
-|  LinkedIn | [soumik-ray-455524361](https://www.linkedin.com/in/soumik-ray-455524361/) |
-|  Portfolio | [Soumik-180/Portfolio](https://github.com/Soumik-180/Portfolio) |
-|  Instagram | [@soumik180](https://www.instagram.com/soumik180/) |
-|  Email | skrsoumikray@gmail.com |
+| LinkedIn | [soumik-ray-455524361](https://www.linkedin.com/in/soumik-ray-455524361/) |
+| Portfolio | [Soumik-180/Portfolio](https://github.com/Soumik-180/Portfolio) |
+| Instagram | [@soumik180](https://www.instagram.com/soumik180/) |
+| Email | skrsoumikray@gmail.com |
 
 > *"The genome is a book written in a language we're still learning to read — I'm here to help translate it."*
 
