@@ -36,18 +36,23 @@
 
 ## About Me
 
-```python
-class Soumik:
-    name       = "Soumik Ray Swapon"
-    username   = "Soumik-180"
-    degree     = "B.Tech in Biotechnology"
-    passion    = ["Computational Biology", "Biological Data Analysis", "AI in Healthcare"]
-    currently  = "Exploring the intersection of biology and code"
-    hobbies    = ["Gaming", "Reading Novels"]
-    motto      = "Where biology meets computation, discoveries happen."
-```
+<div align="center">
 
-I'm a Biotechnology undergrad passionate about harnessing the power of **code and computation** to solve biological problems — from analyzing protein sequences to predicting disease outcomes using AI. I believe data is the new microscope.
+| | |
+|:---|:---|
+| **Name** | Soumik Ray Swapon |
+| **Username** | Soumik-180 |
+| **Degree** | B.Tech in Biotechnology |
+| **Passion** | Computational Biology · Biological Data Analysis · AI in Healthcare |
+| **Currently** | Exploring the intersection of biology and code |
+| **Hobbies** | Gaming · Reading Novels |
+| **Motto** | *"Where biology meets computation, discoveries happen."* |
+
+</div>
+
+<br/>
+
+I'm a Biotechnology undergrad passionate about harnessing the power of **code and computation** to solve biological problems — from analyzing biological data to predicting disease outcomes using AI. I believe data is the new microscope.
 
 ---
 
@@ -112,8 +117,6 @@ I'm a Biotechnology undergrad passionate about harnessing the power of **code an
 | Portfolio | [Soumik-180/Portfolio](https://github.com/Soumik-180/Portfolio) |
 | Instagram | [@soumik180](https://www.instagram.com/soumik180/) |
 | Email | skrsoumikray@gmail.com |
-
-> *"The genome is a book written in a language we're still learning to read — I'm here to help translate it."*
 
 </div>
 
