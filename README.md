@@ -7,19 +7,19 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sᴏᴜᴍɪᴋ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! ɪ'ᴍ sᴏᴜᴍɪᴋ! 
 *Bio-Coder (Biotechnologist / Computational Biologist)*
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Biotechnology undergrad passionate about harnessing the power of code and computation to solve biological problems — from analyzing biological data to predicting disease outcomes using AI. I believe data is the new microscope.</p>
 
-- 🧬 B.Tech Biotechnology Student
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🔬 Passionate about Computational Biology · Biological Data Analysis · AI in Healthcare
-- 🎮 When not coding: Gaming & Reading Novels
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://github.com/Soumik-180/Portfolio) for more details about me.
+- B.Tech Biotechnology Student
+- I'm currently learning many things, I believe that everyday is a learning opportunity.
+- Passionate about Computational Biology · Biological Data Analysis · AI in Healthcare
+- When not coding: Gaming & Reading Novels
+- Contributing to Open Source.
+- Visit my [Portfolio](https://github.com/Soumik-180/Portfolio) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
