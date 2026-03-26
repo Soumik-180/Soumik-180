@@ -1,7 +1,5 @@
 <!--Banner-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:441350,70:770677,100:c56a90&height=200&section=header&text=Hello%20World&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20Soumik's%20Profile&descAlignY=55&descColor=ffeb95&animation=fadeIn" width="100%" />
-</div>
+![Soumik-180 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
